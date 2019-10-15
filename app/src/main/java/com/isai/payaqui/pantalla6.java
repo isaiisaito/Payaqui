@@ -27,3 +27,4 @@ public class Pantalla6 extends AppCompatActivity {
         });
     }
 }
+//:.....
